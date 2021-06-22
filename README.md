@@ -1,4 +1,4 @@
-# https://tiny-moron.github.io/petrovich-testovoe/
+# https://ekaterina-mukhametova.github.io/petrovich-testovoe/
 
 Тестовое задание для "Группы управляющих компаний".
 
